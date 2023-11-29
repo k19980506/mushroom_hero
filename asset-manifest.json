@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/k19980506.github.io/mushroom_hero/static/css/main.e6c13ad2.css",
+    "main.js": "/k19980506.github.io/mushroom_hero/static/js/main.1530c470.js",
+    "static/js/787.8e28dc31.chunk.js": "/k19980506.github.io/mushroom_hero/static/js/787.8e28dc31.chunk.js",
+    "index.html": "/k19980506.github.io/mushroom_hero/index.html",
+    "main.e6c13ad2.css.map": "/k19980506.github.io/mushroom_hero/static/css/main.e6c13ad2.css.map",
+    "main.1530c470.js.map": "/k19980506.github.io/mushroom_hero/static/js/main.1530c470.js.map",
+    "787.8e28dc31.chunk.js.map": "/k19980506.github.io/mushroom_hero/static/js/787.8e28dc31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1530c470.js"
+  ]
+}
